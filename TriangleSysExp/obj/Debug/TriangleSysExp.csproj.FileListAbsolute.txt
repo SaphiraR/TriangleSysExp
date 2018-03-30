@@ -1,0 +1,7 @@
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\obj\Debug\TriangleSysExp.csprojResolveAssemblyReference.cache
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\obj\Debug\TriangleSysExp.csproj.CoreCompileInputs.cache
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\bin\Debug\TriangleSysExp.exe.config
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\bin\Debug\TriangleSysExp.exe
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\bin\Debug\TriangleSysExp.pdb
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\obj\Debug\TriangleSysExp.exe
+C:\Users\saphi\OneDrive\Images\Documents\Visual Studio 2017\Projects\TriangleSysExp\TriangleSysExp\obj\Debug\TriangleSysExp.pdb
